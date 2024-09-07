@@ -28,3 +28,12 @@ img {
 .list {
 	color: #333000;
 }
+
+#right-column {
+	float:right;
+	width:350px;
+	text-align:left;
+}
+
+#right-column h2 {font-size: 1.2rem; font-weight: bold;}
+
