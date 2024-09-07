@@ -24,3 +24,7 @@ body {
 img {
 	border:double 10px white;
 }
+
+.list {
+	color: #333000;
+}
